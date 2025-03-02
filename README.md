@@ -25,7 +25,7 @@ Contact us at **niwang.cs@gmail.com** if you have any inquiry.
 ```python generalization_tsne.py``` 
 A typical result of this step:
 <p align="center">
-<img src="https://github.com/niart/spiking_VGG16_NetVlad/blob/41f7d54ff79bc87830d4819ba7d17ccc2ac938db/tsne_pictures/Screenshot%20from%202025-02-27%2005-45-24.png" width=60% height=60%>
+<img src="https://github.com/niart/spiking_VGG16_NetVlad/blob/41f7d54ff79bc87830d4819ba7d17ccc2ac938db/tsne_pictures/Screenshot%20from%202025-02-27%2005-45-24.png" width=100% height=60%>
 </p>
 
 #### 5. Train/test NetVlad with VGG16 based on our RGB dataset:
