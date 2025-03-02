@@ -1,7 +1,8 @@
 # SNN for visual place recognition with NetVlad:
 ## A visual place recognition method based on spiking VGG16 and event camera. 
 This is part of project [Hybrid Guided VAE for Rapid Visual Place Recognition](https://github.com/niart/fzj_vpr). 
-Contact us at **niwang.cs@gmail.com** if you have inquiry.
+Download our dataset at **[HERE](https://drive.google.com/drive/folders/1oC8KnzzZXLAF_QzLBpGEebBqCXU_yTTT?usp=sharing)**. 
+Contact us at **niwang.cs@gmail.com** if you have any inquiry.
 
 Steps of installing triplesumo:
 1. Download [Mujoco200](https://www.roboti.us/download.html), rename the package into mujoco200, then extract it in 
