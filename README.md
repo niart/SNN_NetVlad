@@ -9,10 +9,12 @@ Contact us at **niwang.cs@gmail.com** if you have any inquiry.
 #### 2. Test this repository with the model trained on our dataset: @Boshi please complete this part. Ideally it
 #### 3. Train this model yourself with our training set: @Boshi
 #### 4. Test the generalization capability of the trained model on our additonal dataset:   
+1. Get representation vectors:
+2. visualize the distribution of representation vectors with TSNE:
+```python generalization_tsne.py``` 
 
 
-
-2. Add ```export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/your_username/.mujoco/mujoco200/bin``` to your ```~/.bashrc```, and then ```source ~/.bashrc```
+to your ```~/.bashrc```, and then ```source ~/.bashrc```
 3. Use Anaconda to create a virtual environment 'triple_sumo' with ```conda env create -f triplesumo2021.yml```; Then ```conda activate triple_sumo```.
 4. ```git clone https://github.com/niart/triplesumo.git``` and ```cd triplesumo```
 5. Use the ```envs``` foler of this repository to replace the ```gym/envs``` installed in your conda environment triplesumo. 
