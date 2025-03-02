@@ -2,6 +2,7 @@
 ## A visual place recognition method based on spiking VGG16 and event camera.
 This repository is part of project [Hybrid Guided VAE for Rapid Visual Place Recognition](https://github.com/niart/fzj_vpr). 
 A spiking VGG attached NetVlad layer is trained with Backpropagation Through Time (BPTT) to recognize 16 classes of indoor visual scenes in an artificial office environment captured by event camera, and tested for generalization on three additional unseen places. Download our dataset **[HERE](https://drive.google.com/drive/folders/1oC8KnzzZXLAF_QzLBpGEebBqCXU_yTTT?usp=sharing)**. 
+We also trained a normal VGG16 attached NetVlad layer for comparison. 
 Contact us at **niwang.cs@gmail.com** if you have any inquiry.
 
 ### Steps of implementing this repository:
