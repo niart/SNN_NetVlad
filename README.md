@@ -25,6 +25,10 @@ A typical result of this step:
 
 #### Train/test NetVlad with VGG16 based on our RGB dataset:
 ```python rbg.py``` 
+A typical result of this step:
+<p align="center">
+<img src="https://github.com/niart/SNN_NetVlad/blob/fbacdd9686ab8fcd10f0230fe261060d72a7c240/tsne_pictures/rgb_features.png" width=60% height=60%>
+</p>
 
 If you use this repository or our dataset for academic work which results in publication, please cite:
 ```
