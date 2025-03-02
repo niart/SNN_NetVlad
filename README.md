@@ -24,7 +24,7 @@ A typical result of this step:
 <img src="https://github.com/niart/spiking_VGG16_NetVlad/blob/41f7d54ff79bc87830d4819ba7d17ccc2ac938db/tsne_pictures/Screenshot%20from%202025-02-27%2005-45-24.png" width=60% height=60%>
 </p>
 
-#### Train/test NetVlad with VGG16 based on our RGB dataset:
+#### 5. Train/test NetVlad with VGG16 based on our RGB dataset:
 ```python rbg.py``` 
 
 A typical result of this step:
