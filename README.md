@@ -1,12 +1,8 @@
 # SNN for visual place recognition with NetVlad:
-## A visual place recognition method based on SNN and event camera. 
+## A visual place recognition method based on spiking VGG16 and event camera. 
 This is part of project [Hybrid Guided VAE for Rapid Visual Place Recognition](https://github.com/niart/fzj_vpr). 
  
 
-Demo of results step by step:
-1. The result **[after training the green agent for 3000 epochs](https://www.youtube.com/watch?v=YWFp8jZACuc&t=11s)**;
-2. The result **[after training both the green and red agents for fighting](https://www.youtube.com/watch?v=VxYpkmswaWs)**; 
-3. The result **[after training the blue agent to join the ongoing game](https://www.youtube.com/watch?v=qSSW6TypXdQ&t=100s)**. 
 
 You're welcome to visit the **[author's Youtube page](https://www.youtube.com/@intelligentautonomoussyste5467/videos)** to find more about her work. Contact her at **niwang.cs@gmail.com** if you have inquiry.
 
@@ -30,22 +26,10 @@ If you want to cite this game:
   howpublished = {Wang, N., Das, G.P., Millard, A.G. (2022). Learning Cooperative Behaviours in Adversarial Multi-agent Systems. In: Pacheco-Gutierrez, S., Cryer, A., Caliskanelli, I., Tugal, H., Skilton, R. (eds) Towards Autonomous Robotic Systems. TAROS 2022. Lecture Notes in Computer Science(), vol 13546. Springer, Cham. https://doi.org/10.1007/978-3-031-15908-4_15} 
 ```  
 
-An overview of TripleSumo interface:
-<p align="center">
-<img src="https://github.com/niart/triplesumo/blob/main/triple.png" width=50% height=50%>
-</p>
-Rewards along training the newly added player with DDPG:
-<p align="center">
-<img src="https://github.com/niart/triplesumo/blob/main/3rewards.png" width=50% height=50%>
-</p>
-Wining rate of the team(red+blue) during training and testing:
-<p align="center">
-<img src="https://github.com/niart/triplesumo/blob/main/hybrid_rate.png" width=50% height=50%>
-</p>
+An quick:
+
 Steps the team needed to win along training the newly added player:
 <p align="center">
-<img src="https://github.com/niart/triplesumo/blob/main/steps.png" width=50% height=50%>
+<img src="https://github.com/niart/spiking_VGG16_NetVlad/blob/41f7d54ff79bc87830d4819ba7d17ccc2ac938db/tsne_pictures/Screenshot%20from%202025-02-27%2005-45-24.png" width=60% height=60%>
 </p>
-
-[^1]: This project is an extension of platform [Robosumo](https://github.com/openai/robosumo) with new interfaces. 
 
