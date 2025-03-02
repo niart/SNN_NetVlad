@@ -1,8 +1,7 @@
 # SNN for visual place recognition with NetVlad:
-## A visual place recognition method based on SNN and event camera. This is part of project 
- [Hybrid Guided VAE for Rapid Visual Place Recognition](https://github.com/niart/fzj_vpr). 
+## A visual place recognition method based on SNN and event camera. 
+This is part of project [Hybrid Guided VAE for Rapid Visual Place Recognition](https://github.com/niart/fzj_vpr). 
  
- This game aims to establish a virtual environment for intestivating multi-agent cooperation in physical contact-rich adversarial environment, with reinforcement learning interface ported to OpenAI/Gym. In this game, two weak players (either smaller in size or weaker in contact force) are supposed to team up and play against a strong player in sumo game. 
 
 Demo of results step by step:
 1. The result **[after training the green agent for 3000 epochs](https://www.youtube.com/watch?v=YWFp8jZACuc&t=11s)**;
