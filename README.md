@@ -1,12 +1,14 @@
 # SNN for visual place recognition with NetVlad:
 ## A visual place recognition method based on spiking VGG16 and event camera. 
-This is part of project [Hybrid Guided VAE for Rapid Visual Place Recognition](https://github.com/niart/fzj_vpr). 
+This repository is part of project [Hybrid Guided VAE for Rapid Visual Place Recognition](https://github.com/niart/fzj_vpr). 
 Download our dataset **[HERE](https://drive.google.com/drive/folders/1oC8KnzzZXLAF_QzLBpGEebBqCXU_yTTT?usp=sharing)**. 
 Contact us at **niwang.cs@gmail.com** if you have any inquiry.
 
 ### Steps of implementing this repository:
 #### 1. Setup environment and dependencies: @Boshi please complete this part by making a yml file.
-#### 2. Test the model with 
+#### 2. Test this repository with the model trained on our dataset: @Boshi please complete this part. Ideally it
+#### 3. Train this model yourself with our training set: @Boshi
+#### 4. Test the generalization capability of the trained model on our additonal dataset:   
 
 
 
