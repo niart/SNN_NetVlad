@@ -1,10 +1,8 @@
 # SNN for visual place recognition with NetVlad:
-## a multi-agent RL platform based on OpenAI/Gym and Mujoco [^1]
-<p align="center">
-  <img src="https://github.com/niart/triplesumo/blob/5aea698826bd43a1afe0cbc8df33fb350a847333/25_35.gif" alt="animated" />
-</p>
-
-#### This game is introduced in publication [Learning Cooperative Behaviours in Adversarial Multi-agent Systems](https://link.springer.com/chapter/10.1007/978-3-031-15908-4_15) ([full text](https://drive.google.com/file/d/1gAvAhV5qtRpQqhONvBASjzIKGk6CeWje/view?usp=sharing)). This game aims to establish a virtual environment for intestivating multi-agent cooperation in physical contact-rich adversarial environment, with reinforcement learning interface ported to OpenAI/Gym. In this game, two weak players (either smaller in size or weaker in contact force) are supposed to team up and play against a strong player in sumo game. 
+## A visual place recognition method based on SNN and event camera. This is part of project 
+ [Hybrid Guided VAE for Rapid Visual Place Recognition](https://github.com/niart/fzj_vpr). 
+ 
+ This game aims to establish a virtual environment for intestivating multi-agent cooperation in physical contact-rich adversarial environment, with reinforcement learning interface ported to OpenAI/Gym. In this game, two weak players (either smaller in size or weaker in contact force) are supposed to team up and play against a strong player in sumo game. 
 
 Demo of results step by step:
 1. The result **[after training the green agent for 3000 epochs](https://www.youtube.com/watch?v=YWFp8jZACuc&t=11s)**;
