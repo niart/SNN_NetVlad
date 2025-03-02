@@ -31,6 +31,8 @@ A typical result of this step:
 #### 5. Train/test NetVlad with VGG16 based on our RGB dataset:
 ```python rbg.py``` 
 
+visualize the distribution of representation vectors with TSNE:
+```python generalization_tsne.py``` 
 A typical result of this step:
 <p align="center">
 <img src="https://github.com/niart/SNN_NetVlad/blob/fbacdd9686ab8fcd10f0230fe261060d72a7c240/tsne_pictures/rgb_features.png" width=60% height=60%>
