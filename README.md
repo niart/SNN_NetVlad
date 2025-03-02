@@ -16,7 +16,7 @@ Contact us at **niwang.cs@gmail.com** if you have any inquiry.
 @Boshi please complete this step. This step should output training graphs and a .pth file.
 #### 4. Test the generalization capability of the trained model on our additonal dataset:   
 <p align="center">
-<img src="https://github.com/niart/SNN_NetVlad/blob/961c990b1358c30304af79b7fcd4911d8ecdb0d7/Pasted%20image.png" width=60% height=60%>
+<img src="https://github.com/niart/SNN_NetVlad/blob/961c990b1358c30304af79b7fcd4911d8ecdb0d7/Pasted%20image.png" width=100% height=60%>
 </p>
 
 1. Get representation vectors:
@@ -25,7 +25,7 @@ Contact us at **niwang.cs@gmail.com** if you have any inquiry.
 ```python generalization_tsne.py``` 
 A typical result of this step:
 <p align="center">
-<img src="https://github.com/niart/spiking_VGG16_NetVlad/blob/41f7d54ff79bc87830d4819ba7d17ccc2ac938db/tsne_pictures/Screenshot%20from%202025-02-27%2005-45-24.png" width=100% height=100%>
+<img src="https://github.com/niart/spiking_VGG16_NetVlad/blob/41f7d54ff79bc87830d4819ba7d17ccc2ac938db/tsne_pictures/Screenshot%20from%202025-02-27%2005-45-24.png" width=60% height=60%>
 </p>
 
 #### 5. Train/test NetVlad with VGG16 based on our RGB dataset:
