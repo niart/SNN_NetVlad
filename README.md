@@ -1,7 +1,7 @@
 # SNN for visual place recognition with NetVlad:
 ## A visual place recognition method based on spiking VGG16 and event camera. 
 This repository is part of project [Hybrid Guided VAE for Rapid Visual Place Recognition](https://github.com/niart/fzj_vpr). 
-Download our dataset **[HERE](https://drive.google.com/drive/folders/1oC8KnzzZXLAF_QzLBpGEebBqCXU_yTTT?usp=sharing)**. 
+This SNN is trained with Backpropagation Through Time (BPTT). Download our dataset **[HERE](https://drive.google.com/drive/folders/1oC8KnzzZXLAF_QzLBpGEebBqCXU_yTTT?usp=sharing)**. 
 Contact us at **niwang.cs@gmail.com** if you have any inquiry.
 
 ### Steps of implementing this repository:
