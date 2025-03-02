@@ -5,8 +5,11 @@ Download our dataset **[HERE](https://drive.google.com/drive/folders/1oC8KnzzZXL
 Contact us at **niwang.cs@gmail.com** if you have any inquiry.
 
 ### Steps of implementing this repository:
-1. Download [Mujoco200](https://www.roboti.us/download.html), rename the package into mujoco200, then extract it in 
-   ```/home/your_username/.mujoco/ ```, then download the [license](https://www.roboti.us/license.html) into the same directory
+#### 1. Setup environment and dependencies: @Boshi please complete this part by making a yml file.
+#### 2. Test the model with 
+
+
+
 2. Add ```export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/your_username/.mujoco/mujoco200/bin``` to your ```~/.bashrc```, and then ```source ~/.bashrc```
 3. Use Anaconda to create a virtual environment 'triple_sumo' with ```conda env create -f triplesumo2021.yml```; Then ```conda activate triple_sumo```.
 4. ```git clone https://github.com/niart/triplesumo.git``` and ```cd triplesumo```
