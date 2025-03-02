@@ -10,7 +10,7 @@ Contact us at **niwang.cs@gmail.com** if you have any inquiry.
 #### 2. Test this repository with the model trained on our dataset: 
 ```python eventVal.py``` 
 
-@Boshi please complete this part. This steo should output testing graph (classification accuracy) and a .npy file of representation vectors.
+@Boshi please complete this part. This step should output classification accuracy and a .npy file containing representation vectors.
 #### 3. Train this model yourself with our training set: @Boshi please complete this step. This step should output training graphs and a .pth file.
 #### 4. Test the generalization capability of the trained model on our additonal dataset:   
 1. Get representation vectors:
