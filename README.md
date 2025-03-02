@@ -1,10 +1,7 @@
 # SNN for visual place recognition with NetVlad:
 ## A visual place recognition method based on spiking VGG16 and event camera. 
 This is part of project [Hybrid Guided VAE for Rapid Visual Place Recognition](https://github.com/niart/fzj_vpr). 
- 
-
-
-You're welcome to visit the **[author's Youtube page](https://www.youtube.com/@intelligentautonomoussyste5467/videos)** to find more about her work. Contact her at **niwang.cs@gmail.com** if you have inquiry.
+Contact us at **niwang.cs@gmail.com** if you have inquiry.
 
 Steps of installing triplesumo:
 1. Download [Mujoco200](https://www.roboti.us/download.html), rename the package into mujoco200, then extract it in 
@@ -20,7 +17,7 @@ key algorithm:
 The reward function is in ```gym/envs/mojuco/triant.py```;
 The training algorithm is in ```train_bug/DDPG4.py```.
 
-If you use this repository or associated dataset for academic work which results in publication, please cite:
+If you use this repository or our dataset for academic work which results in publication, please cite:
 ```
 @misc{triplesumo,
   howpublished = {Wang, N., Das, G.P., Millard, A.G. (2022). Learning Cooperative Behaviours in Adversarial Multi-agent Systems. In: Pacheco-Gutierrez, S., Cryer, A., Caliskanelli, I., Tugal, H., Skilton, R. (eds) Towards Autonomous Robotic Systems. TAROS 2022. Lecture Notes in Computer Science(), vol 13546. Springer, Cham. https://doi.org/10.1007/978-3-031-15908-4_15} 
