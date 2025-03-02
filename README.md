@@ -5,11 +5,14 @@ Download our dataset **[HERE](https://drive.google.com/drive/folders/1oC8KnzzZXL
 Contact us at **niwang.cs@gmail.com** if you have any inquiry.
 
 ### Steps of implementing this repository:
-#### 1. Setup environment and dependencies: @Boshi please complete this part by making a yml file.
-#### 2. Test this repository with the model trained on our dataset: @Boshi please complete this part. Ideally it
-#### 3. Train this model yourself with our training set: @Boshi
+#### 1. Setup environment and dependencies: @Boshi please complete this part by making a .yml file for Anaconda.
+#### 2. Test this repository with the model trained on our dataset: 
+```python eventVal.py``` 
+@Boshi please complete this part. This steo should output testing graph (classification accuracy) and a .npy file of representation vectors.
+#### 3. Train this model yourself with our training set: @Boshi please complete this step. This step should output training graphs and a .pth file.
 #### 4. Test the generalization capability of the trained model on our additonal dataset:   
 1. Get representation vectors:
+```python event.py``` 
 2. visualize the distribution of representation vectors with TSNE:
 ```python generalization_tsne.py``` 
 A typical result of this step:
