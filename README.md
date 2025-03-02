@@ -15,6 +15,10 @@ Contact us at **niwang.cs@gmail.com** if you have any inquiry.
 #### 3. Train this model yourself with our training set: 
 @Boshi please complete this step. This step should output training graphs and a .pth file.
 #### 4. Test the generalization capability of the trained model on our additonal dataset:   
+<p align="center">
+<img src="https://github.com/niart/SNN_NetVlad/blob/961c990b1358c30304af79b7fcd4911d8ecdb0d7/Pasted%20image.png" width=60% height=60%>
+</p>
+
 1. Get representation vectors:
 ```python event.py``` 
 2. visualize the distribution of representation vectors with TSNE:
